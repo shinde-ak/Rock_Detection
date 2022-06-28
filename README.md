@@ -17,3 +17,6 @@ several difficulties facing the automated identification of rock types in the fi
 
 <h3> log in </h3>
 <img src="/login.JPG" alt= "login" >
+
+<h3> Detection </h3>
+<img src="/main.JPG" alt = "main" >
