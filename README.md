@@ -12,4 +12,8 @@ several difficulties facing the automated identification of rock types in the fi
 
 
 <h1> Screen Shots</h1>
+<h3> inital intro </h3>
 <img src="/inter.JPG" alt = "interface">
+
+<h3> log in </h3>
+<img src="/login.JPG" alt= "login" >
